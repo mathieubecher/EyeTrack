@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9c0466eb5617594992288f1abbb502c, type: 3}
+  m_Name: AkWwiseProjectData
+  m_EditorClassIdentifier: 
+  AcousticTextureWwu:
+  - PhysicalPath: Virtual Acoustics\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 0144539df337dd44bce9b8da96e74c3d
+    GuidInternal: 
+    m_lastTime: -8586181080126984897
+    List: []
+  AuxBusWwu:
+  - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 8c2b0ab8c0333b43825472a58d5bac66
+    GuidInternal: 
+    m_lastTime: -8586181080127792972
+    List:
+    - name: Master Audio Bus
+      guid: d8a41415a61d2a41a17e75ca0c2149f3
+      id: 3803692087
+      PathAndIcons:
+      - ElementName: Default Work Unit
+        ObjectType: 12
+      - ElementName: Master Audio Bus
+        ObjectType: 2
+      Path: Default Work Unit\Master Audio Bus
+  BankWwu:
+  - PhysicalPath: SoundBanks\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 5bddf87d2a3b8840a2e1224048d2379d
+    GuidInternal: 
+    m_lastTime: -8586181080127693244
+    List: []
+  EventWwu:
+  - PhysicalPath: Events\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 6f859510d3d9614b80584cbbea32c114
+    GuidInternal: 
+    m_lastTime: -8586181080127583543
+    List: []
+  RtpcWwu:
+  - PhysicalPath: Game Parameters\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 6b8070e9141be748abdfe87869d36a7a
+    GuidInternal: 
+    m_lastTime: -8586181080127752900
+    List: []
+  StateWwu:
+  - PhysicalPath: States\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 79593d89c4e02142b1f336ae1d1ff2f9
+    GuidInternal: 
+    m_lastTime: -8586181080127882459
+    List: []
+  SwitchWwu:
+  - PhysicalPath: Switches\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 6a66cead3d06654086ccd3e5b9e2a7a4
+    GuidInternal: 
+    m_lastTime: -8586181080127553632
+    List: []
+  TriggerWwu:
+  - PhysicalPath: Triggers\Default Work Unit.wwu
+    ParentPath: Default Work Unit
+    guid: 1dd619b4273e054ab1e88e582ba2dc48
+    GuidInternal: 
+    m_lastTime: -8586181080127035008
+    List: []
+  ExpandedItems:
+  - "/Projet_Ali\xE9nor"
+  autoPopulateEnabled: 1
+  CurrentPluginConfig: 
